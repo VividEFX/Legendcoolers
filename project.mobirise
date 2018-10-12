@@ -6,7 +6,7 @@
       "name": "commercem4",
       "title": "CommerceM4",
       "styling": {
-        "primaryColor": "#b2ccd2",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#efefef",
         "successColor": "#365c9a",
         "infoColor": "#e96188",
@@ -25,7 +25,7 @@
         "display4Size": 0.85,
         "isPulsation": true,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
       "additionalSetColors": []
