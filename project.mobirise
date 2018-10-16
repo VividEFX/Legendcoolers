@@ -6,7 +6,7 @@
       "name": "commercem4",
       "title": "CommerceM4",
       "styling": {
-        "primaryColor": "#ffffff",
+        "primaryColor": "#fac769",
         "secondaryColor": "#efefef",
         "successColor": "#365c9a",
         "infoColor": "#e96188",
@@ -1250,7 +1250,7 @@
             }
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\" group=\"Content\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Media mediaSize\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"90\">\n        <input type=\"color\" title=\"BG Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-12\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-left mb-0 mbr-fonts-style mbr-black\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\"><br>Vacuum release button \"VRB\"<br>Integrated stainless steel bottle opener / lock plate<br>Rubber Bar-T latch <br>Textured slip resistant lid<br>15\" ruler molded into the lid <br>1 Food grade cutting board / divider<br>1 Heavy duty rubber coated stainless steel basket<br>1 Heavy duty rubber coated stainless steel drink holder<br>Cold-Lock Air-Tight freezer grade gasket<br>Aluminum handle with soft grip<br>Non-skid rubber feet<br>2 piece drain plug system w/ chain tether <br>UV Resistant <br>Food grade / Dry Ice* compatible<br>Molded-in tie-down slots <br>14.39 lbs <br>5 gallon capacity <br>20 lbs of cubed Ice<br>external dimensions (inches) L 21.1 x W 13.3 x H 14.3<br>internal dimensions (inches)  L 14.1 x W 7.8 x H 9.8</p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                        <img src=\"@PROJECT_PATH@/assets/images/joey-480x403.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\" group=\"Content\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Media mediaSize\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"130\">\n        <input type=\"color\" title=\"BG Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-12\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-left mb-0 mbr-fonts-style mbr-black\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><br>Vacuum release button \"VRB\"<br>Integrated stainless steel bottle opener / lock plate<br>Rubber Bar-T latch <br>Textured slip resistant lid<br>15\" ruler molded into the lid <br>1 Food grade cutting board / divider<br>1 Heavy duty rubber coated stainless steel basket<br>1 Heavy duty rubber coated stainless steel drink holder<br>Cold-Lock Air-Tight freezer grade gasket<br>Aluminum handle with soft grip<br>Non-skid rubber feet<br>2 piece drain plug system w/ chain tether <br>UV Resistant <br>Food grade / Dry Ice* compatible<br>Molded-in tie-down slots <br>14.39 lbs <br>5 gallon capacity <br>20 lbs of cubed Ice<br>external dimensions (inches) L 21.1 x W 13.3 x H 14.3<br>internal dimensions (inches)  L 14.1 x W 7.8 x H 9.8</p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                        <img src=\"@PROJECT_PATH@/assets/images/joey-480x403.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r6DUE56jDz",
           "_protectedParams": [],
           "_global": false,
@@ -1950,7 +1950,7 @@
             }
           },
           "_name": "shop1",
-          "_customHTML": "<section class=\"mbr-gallery\" group=\"Shops\" plugins=\"mobirise-shop,Gallery\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"On Sale Bg\" name=\"saleBg\" value=\"#ca4336\">\n        <input type=\"color\" title=\"Card Bottom Color\" name=\"cardBottom\" value=\"#b2ccd2\">\n        <input type=\"color\" title=\"Sidebar Bg\" name=\"sidebarBg\" value=\"#f7f7f7\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"shop\" title=\"Shop\" name=\"shop\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <!-- <div class=\"big-container\"> -->\n    <div class=\"container\">\n        <div mbr-shop=\"shop\" class=\"mbr-shop\" show-sidebar mbr-shop-minimal shop__showsidebar=\"\" show-buttons></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery\" group=\"Shops\" plugins=\"mobirise-shop,Gallery\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"On Sale Bg\" name=\"saleBg\" value=\"#ca4336\">\n        <input type=\"color\" title=\"Card Bottom Color\" name=\"cardBottom\" value=\"#b2ccd2\">\n        <input type=\"color\" title=\"Sidebar Bg\" name=\"sidebarBg\" value=\"#92b5d5\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"shop\" title=\"Shop\" name=\"shop\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <!-- <div class=\"big-container\"> -->\n    <div class=\"container\">\n        <div mbr-shop=\"shop\" class=\"mbr-shop\" show-sidebar mbr-shop-minimal show-buttons></div>\n    </div>\n\n</section>",
           "_cid": "r6DOO9oYCr",
           "_anchor": "shop1-u",
           "_PHPplaceholders": [],
@@ -1978,10 +1978,10 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "shop__showSidebar": true,
+            "shop__showSidebar": false,
             "shop__showCardButtons": true,
             "shop__showSortButtons": false,
-            "shop__showBestSellers": true,
+            "shop__showBestSellers": false,
             "shop__showPriceRange": false,
             "shop__showTags": false,
             "text_all": "All",
