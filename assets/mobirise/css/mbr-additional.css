@@ -2496,6 +2496,14 @@ body {
   text-align: left;
 }
 .cid-r6DOO9oYCr .card-description {
+  text-align: center;
+  color: #232323;
+}
+.cid-r6DOO9oYCr .shop-item-price,
+.cid-r6DOO9oYCr .price-block {
+  text-align: left;
+}
+.cid-r6DOO9oYCr .item-title {
   text-align: left;
 }
 .cid-r6g8KgdJg1 .dropdown-item:before {
